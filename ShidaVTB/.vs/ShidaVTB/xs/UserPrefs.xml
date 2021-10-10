@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{C965D1BA-6860-B392-BD7C-EC83AE17F736}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Global.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Global.cs" Line="352" Column="1" />
+      <File FileName="Assets/Scripts/Enums/CharacterKey.cs" />
+      <File FileName="Assets/Scripts/Enums/Language.cs" />
+      <File FileName="Assets/Scripts/Enums/Stat.cs" Line="4" Column="10" />
+      <File FileName="Assets/Scripts/Structure/Character.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/Structure/NPC.cs" Line="12" Column="23" />
+      <File FileName="Assets/Scripts/Structure/Player.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/Buttons/AvatarButton.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/Screens/CharacterScreen.cs" />
+      <File FileName="Assets/Scripts/Buttons/MainMenuButton.cs" Line="37" Column="16" />
+      <File FileName="Assets/Scripts/Screens/PlotScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Screens/ConnectionsScreen.cs" Line="85" Column="20" />
+      <File FileName="Assets/Scripts/Swiper.cs" Line="40" Column="23" />
+      <File FileName="Assets/Scripts/Buttons/VolumeButton.cs" Line="36" Column="37" />
+      <File FileName="Assets/Scripts/Structure/Story.cs" Line="14" Column="10" />
+      <File FileName="Assets/Scripts/Structure/Route.cs" Line="56" Column="22" />
+      <File FileName="Assets/Scripts/ChoiceAnimator.cs" Line="27" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShidaVTB" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Buttons" expanded="True" />
+                <Node name="Enums" expanded="True" />
+                <Node name="Screens" expanded="True" />
+                <Node name="Structure" expanded="True" />
+                <Node name="Global.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d5d6cac0-93a2-4809-8056-d1a908f7e075" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Yuda_Skl/Projects/Unity/ShidaVTB/Assets/Scripts/Buttons/MainMenuButton.cs" relfile="Assets/Scripts/Buttons/MainMenuButton.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

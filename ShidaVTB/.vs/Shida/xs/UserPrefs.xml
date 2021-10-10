@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enums/CharacterKey.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Settings.cs" Line="64" Column="23" />
+      <File FileName="Assets/Scripts/Global.cs" />
+      <File FileName="Assets/Scripts/Screens/PlotScreen.cs" />
+      <File FileName="Assets/Scripts/Screens/SettingsScreen.cs" />
+      <File FileName="Assets/Scripts/Buttons/VolumeButton.cs" />
+      <File FileName="Assets/Scripts/Buttons/HintsButton.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Game.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Buttons/AvatarButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enums/CharacterKey.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Enums/Language.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enums/ResourceFolder.cs" Line="7" Column="8" />
+      <File FileName="Assets/Scripts/Enums/Stat.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Enums/Status.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shida" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Buttons" expanded="True" />
+                  <Node name="Enums" expanded="True">
+                    <Node name="CharacterKey.cs" selected="True" />
+                  </Node>
+                  <Node name="Screens" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c402f0ef-3977-49f0-9cb1-ac47c7325f75" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Yuda_Skl/Projects/Unity/Shida/Assets/Scripts/Joystick.cs" relfile="Assets/Scripts/Joystick.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
